@@ -1,6 +1,6 @@
-# RunZ
+# Tytonidae
 
-A Infinite Runner Game Using Construct 2.
+A Platform Game Using Construct 2.
 
 <img src="https://raw.githubusercontent.com/fawill/fawill.github.io-Tytonidae/master/Banner_Tytonidae.png" style="width:250px"/>
 
