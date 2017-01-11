@@ -2,7 +2,7 @@
 
 A Infinite Runner Game Using Construct 2.
 
-<img src="https://raw.githubusercontent.com/fawill/fawill.github.io-RunZ/master/Banner_RunZ.png" style="width:250px"/>
+<img src="https://raw.githubusercontent.com/fawill/fawill.github.io-Tytonidae/master/Banner_Tytonidae.png" style="width:250px"/>
 
 ## Contributors 
 
@@ -13,4 +13,4 @@ A Infinite Runner Game Using Construct 2.
 
 ## Live Demonstration
 
-<h3> - <a href="https://fawill.github.io/RunZ/" target="_blank">Try it now!</a></h3>
+<h3> - <a href="https://fawill.github.io/Tytonidae/" target="_blank">Try it now!</a></h3>
