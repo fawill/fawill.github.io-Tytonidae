@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1484194209
+#1484227777
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -83,6 +83,7 @@ images/pausehud-sheet0.png
 images/sprite2-sheet0.png
 images/sprite3-sheet0.png
 images/sprite6-sheet0.png
+images/trigger_pressup-sheet0.png
 media/dragging.m4a
 media/dragging.ogg
 media/completed.ogg
