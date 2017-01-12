@@ -13,4 +13,4 @@ A Platform Game Using Construct 2.
 
 ## Live Demonstration
 
-<h3> - <a href="https://fawill.github.io/Tytonidae/" target="_blank">Try it now!</a></h3>
+<h3> - <a href="https://fawill.github.io/fawill.github.io-Tytonidae/" target="_blank">Try it now!</a></h3>
