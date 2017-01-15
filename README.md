@@ -2,6 +2,9 @@
 
 A Platform Game Using Construct 2.
 
+As vezes almas vagueiam por entre o mundo e o submundo, perdidas e sem forças para fazer a "passagem" nesse momento Rasga-mortalha ou simplesmente Tytonidae ajuda essas almas a alcançarem o descanso eterno.
+
+
 <img src="https://raw.githubusercontent.com/fawill/fawill.github.io-Tytonidae/master/Banner_Tytonidae.png" style="width:250px"/>
 
 ## Contributors 
